@@ -1,2 +1,2 @@
 # System-Monitoring-Tool
-Multithread system monitoring tool
+A multithread system monitoring tool
